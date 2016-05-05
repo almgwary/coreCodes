@@ -25,7 +25,7 @@ git remote add origin remote repository URL
 # Verifies the new remote URL
 git remote -v
 # uploud  file
-git push
+git push origin master
 
 
 
