@@ -1,0 +1,41 @@
+'Prallel MPI'
+ 
+
+	$mpicc mpi_hello.c -o hello
+	$mpirun -np 2 ./hello
+	/media/almgwary/amrPrivatS/fci/codes/
+
+
+#################################################
+'Git '
+
+# clone repo
+git clone https://github.com/almgwary/parallel-MPI-Dos-and-Mirror.git
+# go to dir
+cd parallel-MPI-Dos-and-Mirror/
+# init
+git init
+# add all files
+git add .
+# commt
+git commit -m "v.1"
+
+# Sets the new remote
+git remote add origin remote repository URL
+# Verifies the new remote URL
+git remote -v
+# uploud  file
+git push
+
+
+
+# see updated file only
+git diff --name-status
+# add updated file only 
+git add -u
+
+
+#################################################
+
+
+	
