@@ -27,3 +27,10 @@ multi codes and commands
 	      	test memory locality on C .
 
 
+	-----------------------
+
+
+	## e. C_Codes.c
+	      	collection of usful C codes
+
+
