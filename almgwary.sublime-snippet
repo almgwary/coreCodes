@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * @problem : ${1: problem Name}
+ * @author  : Almgwary
+ * @date    : ${2:dd}-${3:mm}-${4:yy}
+ * @thin    : ${5:dd}M
+ **/
+]]></content>
+	<tabTrigger>almgwary</tabTrigger>
+</snippet>
