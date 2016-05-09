@@ -56,6 +56,13 @@ multi codes and commands
 	## e. javaCodes.java
 	      	collection of usful java codes
 	      	1. read File into String
+
+
+	-----------------------
+
+
+	## f. ResourceLosder.java
+	      	load Files and resources
 			
 			
 			
