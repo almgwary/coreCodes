@@ -63,6 +63,12 @@ multi codes and commands
 
 	## f. ResourceLosder.java
 	      	load Files and resources
+
+-----------------------
+
+
+	## g. android
+	       collection of android codes
 			
 			
 			
